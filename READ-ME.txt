@@ -1,9 +1,9 @@
   =>  Template Name    : CryptoCoin - Free Cryptocurrency Website Template
 
-  =>  Template Link    : https://htmlcodex.com/free-cryptocurrency-website-template
+  =>  Template Link    : /free-cryptocurrency-website-template
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template License : /license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+  =>  Template Author  : Chinedu Azuwane 
 
-  =>  Author Website   : https://htmlcodex.com
+  =>  Author Website   : 
